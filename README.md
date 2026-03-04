@@ -16,4 +16,5 @@ This app allows you to add, view, delete, and toggle the completion status of ta
 
 ## 📂 Project Structure
 ├── tasks.json        # Stores your tasks (auto-created if missing)
+
 └── main.py           # Main application script
